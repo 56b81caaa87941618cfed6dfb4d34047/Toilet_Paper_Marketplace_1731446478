@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"ERROR on qna[{\\\"question 1\\\" : \\\"What specific style or type of toilet image do you envision for the app?\\\", \\\"option1\\\" : \\\"A realistic photo of a toilet\\\", \\\"option2\\\" : \\\"A cartoon or illustrated version of a toilet\\\"},\\n{\\\"question 2\\\" : \\\"Where in the app do you want this picture of the toilet to be placed?\\\", \\\"option1\\\" : \\\"On the homepage\\\", \\\"option2\\\" : \\\"Within the product listings\\\"}}\", \"time_taken\": \"0:00:01.304419\"}",
+        "timestamp": "12112024212145",
+        "message_id": "guest12112024212140"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add a picture of a toilet.",
         "timestamp": "12112024212141",
