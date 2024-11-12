@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a picture of a toilet.",
+        "timestamp": "12112024212141",
+        "message_id": "guest12112024212140"
+    },
+    {
         "role": "user",
         "content": "Add a picture of a toilet",
         "timestamp": "12112024212140",
