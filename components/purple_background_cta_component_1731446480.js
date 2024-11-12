@@ -48,6 +48,7 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             Get Started
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span>
           </a>
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1731446478/main/images/0f96bc08ef3542bdba8e315a4d4e3d83.jpeg" alt="Toilet Paper" class="mt-8" />
         </div>
       </div>
     </div>
